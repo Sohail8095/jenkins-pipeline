@@ -11,7 +11,7 @@ pipeline {
 			   echo 'can perform testing using testing tool like junit'
 				}
 			stage ('deploy') {
-			   echo 'can deply the code in containers or deployment VM's'
+			   echo 'can deply the code in containers or deployment VMs'
 				}
 		}
 }
